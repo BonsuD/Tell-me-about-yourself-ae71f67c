@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+}
+
+/* All <a> elements. */
+li {
+  color: red;
+  font-size: 2em;
+}
+
+h2 {
+	color: gray;
+}
+
+body {
+	background-color: green;
+}
+
+img {
+	width: 350px;
+}
+
+input {
+	width: 200px;
+}
+
+input{
+	border-radius: 10% / 50%;
+
+}
